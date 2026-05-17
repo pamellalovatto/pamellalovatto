@@ -18,7 +18,7 @@ const pamella = {
   role: "Builder de produtos digitais com IA",
   focus: ["AI apps", "automação", "full-stack", "SaaS", "experiências web"],
   currently: "criando ferramentas que conectam IA, dados e fluxos reais de negócio",
-  projects: ["AgendAI", "pesquisa-de-mercado-AI", "socialAI"],
+  projects: ["IA-project", "AgendAI", "pesquisa-de-mercado-AI", "socialAI"],
   style: "produto primeiro, tecnologia a serviço da experiência",
 };
 ```
@@ -42,6 +42,7 @@ const pamella = {
 
 ### Projetos recentes
 
+- **[IA-project](https://github.com/pamellalovatto/IA-project)**: meu projeto público em TypeScript explorando aplicações com IA.
 - **AgendAI**: agenda com IA e assistente virtual para atendimento, clientes e compromissos.
 - **pesquisa-de-mercado-AI**: app com IA para apoiar pesquisa, análise e geração de insights.
 - **socialAI**: experimentos em automação e IA aplicada a conteúdo.
