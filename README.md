@@ -42,7 +42,7 @@ const pamella = {
 
 ### Projetos recentes
 
-- **[IA-project](https://github.com/pamellalovatto/IA-project)**: meu projeto público em TypeScript explorando aplicações com IA.
+- **[IA-project](https://github.com/pamellalovatto/IA-project)**: pipeline em TypeScript que processa vídeos, extrai áudio e gera transcrições para alimentar assistentes de conteúdo, como geração de títulos, legendas para publicações, resumos e ideias derivadas do material original.
 - **AgendAI**: agenda com IA e assistente virtual para atendimento, clientes e compromissos.
 - **pesquisa-de-mercado-AI**: app com IA para apoiar pesquisa, análise e geração de insights.
 - **socialAI**: experimentos em automação e IA aplicada a conteúdo.
